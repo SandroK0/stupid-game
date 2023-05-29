@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stupid-game/static/css/main.aa082cce.css",
+    "main.js": "/stupid-game/static/js/main.87937b71.js",
+    "index.html": "/stupid-game/index.html",
+    "main.aa082cce.css.map": "/stupid-game/static/css/main.aa082cce.css.map",
+    "main.87937b71.js.map": "/stupid-game/static/js/main.87937b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa082cce.css",
+    "static/js/main.87937b71.js"
+  ]
+}
